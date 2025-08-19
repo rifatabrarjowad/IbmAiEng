@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af255bb1-c4b1-441e-99c4-e90e0a9279ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Linear-Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Linear-Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreReqPrac/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PreReqPrac/numpy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755505516968</updated>
-      <workItem from="1755505517988" duration="2450000" />
+      <workItem from="1755505517988" duration="6926000" />
     </task>
     <servers />
   </component>
