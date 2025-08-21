@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Total_Sale,Country
+1,Laptop,Electronics,2,800,1600,USA
+2,Headphones,Electronics,5,50,250,Canada
+3,T-Shirt,Clothing,3,20,60,USA
+4,Shoes,Clothing,1,100,100,UK
+5,Phone Case,Accessories,4,15,60,Canada
+6,Keyboard,Electronics,2,40,80,USA
+7,Jacket,Clothing,2,60,120,UK
+8,Smartwatch,Electronics,1,200,200,USA
+9,Bag,Accessories,3,30,90,Canada
+10,Monitor,Electronics,1,150,150,USA
